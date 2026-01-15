@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Akshay Balaji! 👋<br>(TBH, Most of my projects are just private, letting you know ppl) I’m currently a Senior in high school, working towards a future as a Data Scientist or a Quant Engineer . I’m actively engaged in various Machine Learning and Artificial Intelligence projects, constantly building my skill set and staying up to date with the latest innovations in the field.<br><br>I'm passionate about Computer Science and plan to major in it at university. I’m actively seeking tech-related volunteering opportunities, especially those that involve Machine Learning, AI, or data science applications. I’m also eager to explore research that aligns with my goals of leveraging technology to make a meaningful impact.<br><br>Feel free to explore my repositories below to see some of the projects I’ve been working on. Don’t hesitate to reach out if you’d like to collaborate or connect!<br><br>📧 Email: heyakshaybalaji@Outlook.com<br>📱 Phone: +91 7305385594
+Hi, I'm Akshay Balaji! 👋<br>
+(TBH, most of my projects are private — if you’d like to look at my prior or private work, please email or message me directly.)<br><br>
+Feel free to explore the repositories below to see some of the projects I’ve been working on. Don’t hesitate to reach out if you’d like to collaborate or connect!<br><br>
+📧 Email: heyakshaybalaji@outlook.com<br>
+📱 Phone: +91 7305385594
 
 
 # 💻 Tech Stack:
