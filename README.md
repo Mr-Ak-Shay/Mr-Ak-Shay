@@ -1,103 +1,95 @@
-<!-- Header -->
-<div align="center">
-
 ```
 // github.com/mr-ak-shay
 ```
 
 # Akshay Balaji
 
-**AI Engineer at the intersection of Uncertainty Quantification, Mathematical Finance, and Multi-Agent Systems.**  
-Building AI that *reasons* — not just retrieves.
+**LLM & Multi-Agent AI Engineer · Researcher · Founder**  
+Building AI that carries epistemic weight — not just retrieves.
 
-[![LLM & Multi-Agent Engineer](https://img.shields.io/badge/LLM%20%26%20Multi--Agent%20Engineer-0F6E56?style=flat-square&labelColor=E1F5EE&color=0F6E56)](https://github.com/mr-ak-shay)
-[![MIT Manolis Kellis Lab](https://img.shields.io/badge/MIT%20Manolis%20Kellis%20Lab-185FA5?style=flat-square&labelColor=E6F1FB&color=185FA5)](https://github.com/mr-ak-shay)
-[![4x Researcher](https://img.shields.io/badge/4x%20Researcher-854F0B?style=flat-square&labelColor=FAEEDA&color=854F0B)](https://github.com/mr-ak-shay)
-[![Stanford Undergrad](https://img.shields.io/badge/Stanford%20Undergrad-534AB7?style=flat-square&labelColor=EEEDFE&color=534AB7)](https://github.com/mr-ak-shay)
-[![Harvard HUVTSP '25](https://img.shields.io/badge/Harvard%20HUVTSP%20'25-993C1D?style=flat-square&labelColor=FAECE7&color=993C1D)](https://github.com/mr-ak-shay)
-
-</div>
+[![Founder @ STEM Us](https://img.shields.io/badge/Founder%20%40%20STEM%20Us-0F6E56?style=flat-square&labelColor=E1F5EE&color=0F6E56)](https://www.linkedin.com/in/mr-ak-shay/)
+[![MIT Manolis Kellis Lab](https://img.shields.io/badge/MIT%20Manolis%20Kellis%20Lab-185FA5?style=flat-square&labelColor=E6F1FB&color=185FA5)](https://www.linkedin.com/in/mr-ak-shay/)
+[![Harvard HUVTSP '25](https://img.shields.io/badge/Harvard%20HUVTSP%20'25-993C1D?style=flat-square&labelColor=FAECE7&color=993C1D)](https://www.linkedin.com/in/mr-ak-shay/)
+[![IIT Madras](https://img.shields.io/badge/IIT%20Madras%20BS-534AB7?style=flat-square&labelColor=EEEDFE&color=534AB7)](https://www.linkedin.com/in/mr-ak-shay/)
+[![Stanford Collaboration](https://img.shields.io/badge/Stanford%20Collaboration-854F0B?style=flat-square&labelColor=FAEEDA&color=854F0B)](https://www.linkedin.com/in/mr-ak-shay/)
 
 ---
 
-## Thesis
+## What I actually work on
 
-> **Scraping Wikipedia into a chatbot is not AI.**  
-> The frontier is agents that carry epistemic weight — systems that know what they don't know, propagate uncertainty, and make *financially and biologically consequential* decisions under it. That's the problem worth solving.
+Uncertainty Quantification. Mathematical Finance Modelling. Context-Aware Agents. Biomedical AI.  
+Not wrappers. Not web-scraping chatbots. Systems that reason under uncertainty and act on it.
 
 ---
 
-## Current Focus
+## Now
 
-| Domain | What I'm actually doing |
-|---|---|
-| **Uncertainty Quantification** | Calibrated confidence in ML systems. Probabilistic reasoning for high-stakes inference in finance and biomedicine. |
-| **Mathematical Finance Modelling** | Quantitative methods, stochastic modelling, and statistical theory applied to real-world financial systems. |
-| **Context-Aware Agents** | Agents that maintain belief state across turns — not prompt-response machines, but reasoning entities. |
-| **Biomedical AI** | AI systems for clinical and genomic applications. Collaborating with researchers from IIT Madras & IIITDM Kancheepuram. |
+- **LLM & Multi-Agent AI Engineer** at a VC-backed stealth startup (SF) — founded by a Stanford alum, backed by Left Lane Capital
+- **MIT Mantis Rising Scholar** under Prof. Manolis Kellis — Mathematical Finance · UQ · Biomedical AI · Context Agents
+- **AI & Biomedical Researcher** — 4 papers across UQ, Context-Aware Agents, Molecular Toxicity Prediction, and Biomedical AI
 
 ---
 
 ## Affiliations
 
-- **VC-Backed Stealth Startup — SF Bay Area** · LLM & Multi-Agent AI Engineer · Building production AI systems at scale
-- **MIT Manolis Kellis Lab** · Mantis Rising Scholar · Mathematical Finance · UQ · Context Agents · Biomedical AI
-- **Harvard Undergraduate Ventures — HUVTSP '25** · Technical Track Lead · DocuBridge (Titan Holdings) · Global team
-- **IIT Madras · IIITDM Kancheepuram** · Collaborative Research · 4 published papers · UQ, Biomedical Tech, Context-Aware Systems
-- **Stanford University** · Undergrad · Founded ML Club · School President — 5500+ student body
+| | |
+|---|---|
+| VC-Backed Stealth Startup · SF | LLM & Multi-Agent Engineer · Left Lane Capital · Stanford-founded |
+| MIT Manolis Kellis Lab | Mantis Rising Scholar · Mathematical Finance · UQ · Biomedical AI |
+| Harvard HUVTSP '25 | Technical Track · DocuBridge (Titan Holdings) · Led global team |
+| IIT Madras | BS School-Connect · Data Science & AI |
+| STEM Us | Founder · 2500+ students · 7 countries · STEM for underserved communities |
+| Velammal Vidyalaya | School President (5500+ body) · Founded first ML Club |
 
 ---
 
-## Selected Research
+## Research
 
 ```
-[1]  Uncertainty Quantification in Deep Learning Systems
-     Calibration, epistemic vs aleatoric decomposition · Collab: IIT Madras
+[1]  MolGraphormer: An Interpretable GNN-Transformer for
+     Uncertainty-Aware Molecular Toxicity Prediction
+     ChemRxiv 2025 · 982 views · 369 downloads
 
-[2]  Context-Aware Agent Architectures for High-Stakes Inference
-     Belief-state maintenance · Multi-turn reasoning · Collab: IIITDM Kancheepuram
+[2]  Uncertainty-Quantified Deep Learning Enables Reliable
+     Protein-Drug Interaction Prediction
+     2025
 
-[3]  Biomedical AI Under Distribution Shift
-     Clinical reliability · OOD robustness · Trustworthy inference pipelines
+[3]  Transformer-Genetic Algorithm Co-Optimization for
+     Neoantigen Prediction in Cancer Immunotherapy
+     A Balaji, P Jogi, V Kumar · 2025
 
-[4]  Mathematical Modelling for Financial AI Systems
-     Stochastic methods · Risk-aware prediction · MIT Mantis Rising
+[4]  Symbiotic Lifestyle-Cognition Dynamics: A Multi-Modal
+     Analysis of Interaction Effects on Human Memory Performance
+     2025
 ```
 
----
-
-## Impact
-
-<div align="center">
-
-| 2500+ | 7 | 4 |
-|:---:|:---:|:---:|
-| students taught | countries reached | papers authored |
-
-</div>
-
-Founder of a global STEM education org · Collaborated with institutions across 7 countries · Founded my school's first ML Club · Led a 5500+ student body as School President.
+Collaborated with faculty, PhDs, and undergrads from **IIT Madras**, **IIITDM Kancheepuram**, and **Stanford University**.
 
 ---
 
-## Domain Stack
+## Stack
 
-`Uncertainty Quantification` `Stochastic Calculus` `Multi-Agent Systems` `LLM Engineering` `Bayesian Inference` `Quantitative Finance` `Biomedical AI` `Context-Aware Agents` `Statistical Modelling` `Trustworthy AI` `Risk Modelling` `Agentic Pipelines`
+`Uncertainty Quantification` `Stochastic Modelling` `LLM Engineering` `Multi-Agent Systems`  
+`Bayesian Inference` `Quantitative Finance` `Biomedical AI` `Context-Aware Agents`  
+`Statistical Modelling` `Trustworthy AI` `Agentic Pipelines` `RAG`
 
+---
+
+## Numbers (since you asked)
+
+- `2500+` students educated across 7 countries
+- `4` research papers
+- `5x` Science & AI Fair & Hackathon Winner
+- `4×` National & International Olympiad Top 1% - Math, Social Studies 
 ---
 
 ## Connect
 
-- **LinkedIn** → [linkedin.com/in/mr-ak-shay](https://www.linkedin.com/in/mr-ak-shay/)
-- **Email** → [heyakshaybalaji@outlook.com](mailto:heyakshaybalaji@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/mr-ak-shay/) · [heyakshaybalaji@outlook.com](mailto:heyakshaybalaji@outlook.com)
 
 ---
 
-<div align="center">
-
 ```
-// AGI has evolved.
-// The question is: are you building systems that think — or tools that pattern-match?
+// AGI has evolved. The question is whether you're building systems that think
+// — or tools that pattern-match on the illusion of it.
 ```
-
-</div>
