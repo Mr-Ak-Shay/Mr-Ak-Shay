@@ -18,7 +18,7 @@ Building AI that carries epistemic weight — not just retrieves.
 ## What I actually work on
 
 Uncertainty Quantification. Mathematical Finance Modelling. Context-Aware Agents. Biomedical AI.  
-Not wrappers. Not chatbots. Systems that reason under uncertainty and act on it.
+Not wrappers. Not web-scraping chatbots. Systems that reason under uncertainty and act on it.
 
 ---
 
