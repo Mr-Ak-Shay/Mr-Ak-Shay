@@ -8,17 +8,17 @@
 Building AI that carries epistemic weight — not just retrieves.
 
 [![Founder @ STEM Us](https://img.shields.io/badge/Founder%20%40%20STEM%20Us-0F6E56?style=flat-square&labelColor=E1F5EE&color=0F6E56)](https://www.linkedin.com/in/mr-ak-shay/)
-[![MIT Manolis Kellis Lab](https://img.shields.io/badge/MIT%20Manolis%20Kellis%20Lab-185FA5?style=flat-square&labelColor=E6F1FB&color=185FA5)](https://www.linkedin.com/in/mr-ak-shay/)
-[![Harvard HUVTSP '25](https://img.shields.io/badge/Harvard%20HUVTSP%20'25-993C1D?style=flat-square&labelColor=FAECE7&color=993C1D)](https://www.linkedin.com/in/mr-ak-shay/)
-[![IIT Madras](https://img.shields.io/badge/IIT%20Madras%20BS-534AB7?style=flat-square&labelColor=EEEDFE&color=534AB7)](https://www.linkedin.com/in/mr-ak-shay/)
-[![Stanford Collaboration](https://img.shields.io/badge/Stanford%20Collaboration-854F0B?style=flat-square&labelColor=FAEEDA&color=854F0B)](https://www.linkedin.com/in/mr-ak-shay/)
+[![LLM & Multi-Agent Engineer](https://img.shields.io/badge/LLM%20%26%20Multi--Agent%20Engineer-185FA5?style=flat-square&labelColor=E6F1FB&color=185FA5)](https://www.linkedin.com/in/mr-ak-shay/)
+[![MIT Mantis AI Scholar](https://img.shields.io/badge/MIT%20Mantis%20AI%20Scholar-993C1D?style=flat-square&labelColor=FAECE7&color=993C1D)](https://www.linkedin.com/company/mantisai/)
+[![Harvard HUVTSP '25](https://img.shields.io/badge/Harvard%20HUVTSP%20'25-993C1D?style=flat-square&labelColor=FAECE7&color=993C1D)](https://credsverse.com/credentials/1642cea4-8019-41f3-acd1-b8bf1d996863)
+[![IIT Madras · BS Data Science & AI · 92%](https://img.shields.io/badge/IIT%20Madras%20%C2%B7%20BS%20Data%20Science%20%26%20AI%20%C2%B7%2092%25-854F0B?style=flat-square&labelColor=FAEEDA&color=854F0B)](https://www.linkedin.com/in/mr-ak-shay/details/certifications/1735104247627/single-media-viewer/?profileId=ACoAAE2hxEIBF961WcZuR-sWtEXG3awphy-SXb0)
 
 ---
 
 ## What I actually work on
 
 Uncertainty Quantification. Mathematical Finance Modelling. Context-Aware Agents. Biomedical AI.  
-Not wrappers. Not web-scraping chatbots. Systems that reason under uncertainty and act on it.
+Not wrappers. Not chatbots. Systems that reason under uncertainty and act on it.
 
 ---
 
@@ -63,7 +63,7 @@ Not wrappers. Not web-scraping chatbots. Systems that reason under uncertainty a
      2025
 ```
 
-Collaborated with faculty, PhDs, and undergrads from **IIT Madras**, **IIITDM Kancheepuram**, and **Stanford University**.
+Collaborated with faculty, PhDs, & Undergrad from **IIT Madras**, **IIITDM Kancheepuram**, and **Stanford University**.
 
 ---
 
@@ -79,8 +79,9 @@ Collaborated with faculty, PhDs, and undergrads from **IIT Madras**, **IIITDM Ka
 
 - `2500+` students educated across 7 countries
 - `4` research papers
-- `5x` Science & AI Fair & Hackathon Winner
-- `4×` National & International Olympiad Top 1% - Math, Social Studies 
+- `6x` AI Fair & Hackathon Winner
+- `4×` National & International Olympiad Top 1% -> Math & Social Studies
+
 ---
 
 ## Connect
