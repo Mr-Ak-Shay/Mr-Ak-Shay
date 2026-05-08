@@ -4,6 +4,10 @@
 
 # Akshay Balaji
 
+[![University of Sydney](https://img.shields.io/badge/University%20of%20Sydney%20'29-01549A?style=flat-square&labelColor=EAF4FB&color=01549A)](https://www.sydney.edu.au/)
+
+Financial Mathematics & Statistics · Data Science
+
 **LLM & Multi-Agent AI Engineer · Researcher · Founder**  
 Building AI that carries epistemic weight — not just retrieves.
 
