@@ -4,7 +4,7 @@
 
 # Akshay Balaji
 
-[![University of Sydney](https://img.shields.io/badge/University%20of%20Sydney%20'29-01549A?style=flat-square&labelColor=EAF4FB&color=01549A)](https://www.sydney.edu.au/)
+[![University of Sydney](https://img.shields.io/badge/University%20of%20Sydney%20'30-01549A?style=flat-square&labelColor=EAF4FB&color=01549A)](https://www.sydney.edu.au/)
 
 Financial Mathematics & Statistics · Data Science
 
